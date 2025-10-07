@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Val!
+
+I am a Software Engineer && Team Lead [@Entelect Software](https://github.com/entelect)). Throughout my career, I have worked with various technologies, including Android, Angular, React, Java, C# .NET, and Python. 
 
 <!--
 **Voltage825/Voltage825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
